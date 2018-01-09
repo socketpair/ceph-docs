@@ -42,10 +42,10 @@ CephFS
 Как удалить OSD
 +++++++++++++++
 
-#. ``ceph osd out osd.42``
-#. Мониторить ``osd safe-to-destroy``
-#. На ноде: ``sudo systemctl stop ceph-osd@2``
-#. ``ceph osd purge osd.42``
+#. ``ceph osd out osd.42``.
+#. Мониторить ``osd safe-to-destroy``.
+#. На ноде: ``sudo systemctl stop ceph-osd@2``.
+#. ``ceph osd purge osd.42``.
 
 Дальнейшие операцию производятся на ноде:
 
