@@ -75,7 +75,7 @@ CEPH есть проблемы.
 
 Ccылки:
 
-    * https://habrahabr.ru/post/252221/
-    * https://habrahabr.ru/post/250097/
-    * https://habrahabr.ru/search/?q=cloudmouse
+    * https://habrahabr.ru/post/252221
+    * https://habrahabr.ru/post/250097
     * https://1spla.ru/blog/kak_ne_nujno_delati_oblako
+    * https://go.backupland.com/crash/clodemouse_deleted_vds/clodemouse_deleted_vds.html
