@@ -52,7 +52,7 @@
    ``ceph mgr module enable dashboard``.
    Возможно, нужно добавить ещё и во тэто  в ceph.conf:
 
-   .. code: ini
+   .. code::
 
       [mgr]
       mgr_modules = dashboard
