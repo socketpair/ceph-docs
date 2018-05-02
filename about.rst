@@ -12,3 +12,5 @@
 
 Мэйнтенйнером проекта является Коренберг Марк
 `socketpair@gmail.com <mailto: socketpair@gmail.com>`_.
+
+http://ceph-docs.readthedocs.io
