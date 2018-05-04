@@ -8,9 +8,10 @@
   нагрузку которая задосит кластер.
 * RBD надо бенчить на зааллокейченном диске.
 * https://github.com/socketpair/ceph-bench
-* Бенчмаркинг диска под filestore журнал (см. filestore_wal_ ):
-
+*
   .. _wal_bench:
+
+  Бенчмаркинг диска под filestore журнал (см. filestore_wal_ ):
 
   .. code-block:: sh
 
