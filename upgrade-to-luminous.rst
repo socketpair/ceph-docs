@@ -35,9 +35,16 @@
    Смотрим по ``ceph -s`` какой менеджер активен и подключаемся туда на порт ???? (вписать).
 
 
-#. Меняем stra -> straw2:
+#. Меняем straw -> straw2:
 
-   https://www.spinics.net/lists/ceph-users/msg22234.html
+   .. code-block:: sh
+
+      # Создадим полный crush-map и сохраним его во временный файл
+      ceph osd getcrushmap | crushtool -d - | sed -r 's/alg straw$/alg straw2/' | crushtool -c /dev/stdin -o newcrush.dat
+      # TODO: Перед установкой посмотреть сколько данных будет не на сових местах.
+      # Установим его в качестве нового крушмапа.
+      ceph osd setcrushmap -i newcrush.dat
+
 
 #. Оптимизируем CRUSH-map:
 
@@ -61,3 +68,7 @@
 
       ceph osd set-require-min-compat-client jewel
       ceph osd crush tunables optimal
+
+#. See also
+
+   http://crush.readthedocs.io/en/latest/ceph/optimize.html
