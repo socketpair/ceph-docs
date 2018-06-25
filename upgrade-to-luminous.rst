@@ -1,7 +1,7 @@
 Переход на Luminous
 -------------------
 
-#. Делаем всё по инструкции: http://docs.ceph.com/docs/master/release-notes/#upgrade-from-jewel-or-kraken
+#. Делаем всё по инструкции: http://docs.ceph.com/docs/master/releases/luminous/#upgrade-from-jewel-or-kraken
 
 #. Укажите какие пулы для чего будут использоваться
    (``rbd``, ``cephfs`` или ``cephfs_metadata``. Про остальные ничего не знаю.)
