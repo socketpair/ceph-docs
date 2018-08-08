@@ -1,5 +1,6 @@
+*********
 Bluestore
----------
+*********
 
 * Насчёт выбора размера БД: Google + "recommended rocksdb/rockswal sizes when using SSD/HDD"
 * TODO: Как посмотреть текущий размер БД ?

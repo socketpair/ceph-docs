@@ -1,5 +1,6 @@
+*******************
 Переход на Luminous
--------------------
+*******************
 
 #. Делаем всё по инструкции: http://docs.ceph.com/docs/master/releases/luminous/#upgrade-from-jewel-or-kraken
 

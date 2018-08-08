@@ -1,6 +1,6 @@
-==========
+**********
 CloudMouse
-==========
+**********
 
 .. image:: _static/cloudmouse.png
    :alt: Логотип

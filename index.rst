@@ -1,3 +1,4 @@
+==============
 Заметки о Ceph
 ==============
 
@@ -6,7 +7,10 @@
    :caption: Содержание:
 
    about
+   upgrade-to-luminous
    rbd
+   bench
+   bluestore
    main
    cloudmouse
    see_also
