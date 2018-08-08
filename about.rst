@@ -14,3 +14,10 @@
 `socketpair@gmail.com <mailto: socketpair@gmail.com>`_.
 
 http://ceph-docs.readthedocs.io
+
+Авторы
+======
+
+* Maksim Shchuplov <shchuplov@gmail.com>
+* Vitaliy Filippov <vitalif@mail.ru>
+* Коренберг Марк <socketpair@gmail.com>
