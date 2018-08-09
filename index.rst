@@ -11,6 +11,13 @@
    rbd
    bench
    bluestore
-   main
+   cephfs
+   cpu_and_mem
+   disks
+   how-it-works
+   how_to_remove_osd
+   monitoring
+   network
+   tuning
    cloudmouse
    see_also
