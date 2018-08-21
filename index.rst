@@ -7,6 +7,7 @@
    :caption: Содержание:
 
    about
+   developing
    upgrade-to-luminous
    rbd
    bench
