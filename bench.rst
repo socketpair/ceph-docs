@@ -9,6 +9,24 @@
 
 .. include:: bench-disks.rst
 
+Бенчмаркинг CPU
+===============
+
+.. code-block:: sh
+
+  openssl speed
+
+Бенчмаркинг памяти
+==================
+
+.. code-block:: sh
+
+  sysbench memory --threads=1 --memory-block-size=1M run
+
+.. code-block:: sh
+
+  sysbench memory --threads=8 --memory-block-size=1M run
+
 Бенчмаркинг сети
 ================
 
