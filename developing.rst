@@ -12,4 +12,4 @@
 Недокументированное
 ===================
 
-* Список актуальных задач: https://trello.com/b/ugTc2QFH/ceph-backlog
+* Trello со списком актуальных задач: https://trello.com/cephstorage
