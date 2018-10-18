@@ -18,6 +18,7 @@ http://ceph-docs.readthedocs.io
 Авторы
 ======
 
+* Alexey Lesovsky @lesovsky
 * Maksim Shchuplov <shchuplov@gmail.com>
 * Vitaliy Filippov <vitalif@mail.ru>
 * Коренберг Марк <socketpair@gmail.com>
