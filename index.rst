@@ -8,6 +8,7 @@
 
    about
    developing
+   ceph-choice
    upgrade-to-luminous
    rbd
    bench
@@ -21,4 +22,5 @@
    network
    tuning
    cloudmouse
+   rookio
    see_also
